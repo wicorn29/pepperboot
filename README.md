@@ -12,4 +12,4 @@ At a practical level, Pepperboot spawns a proccess really early in the windows b
 
 ---
 
-WARNING: Pepperboot is in early development and is not stable. DO NOT deploy this to a fleet of computers unless you know what you're doing. Installing pepperboot on someone's computer without their explitit educated consent is an illegal cybercrime. I am not responsible for how you use this program.
+WARNING: Pepperboot is in early development and is not stable. DO NOT deploy this to a fleet of computers unless you know what you're doing. Installing pepperboot on someone's computer without their explicit educated consent is an illegal cybercrime. I am not responsible for how you use this program.
